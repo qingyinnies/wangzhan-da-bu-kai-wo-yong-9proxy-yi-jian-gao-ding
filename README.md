@@ -1,5 +1,5 @@
 <a href='https://postimg.cc/8FjFXKLY' target='_blank'><img src='https://i.postimg.cc/MGYyTgHz/1.jpg' border='0' alt='1'/></a>
-# ## 网站打不开？我用 [9Proxy](https://9proxy.com/?utm_source=Web2.0&utm_medium=Github&utm_id=chloe321) 一键搞定！
+## 网站打不开？我用 [9Proxy](https://9proxy.com/?utm_source=Web2.0&utm_medium=Github&utm_id=chloe321) 一键搞定！
 
 有时你会发现一些网站突然无法访问，可能是因为 IP 被限制，或者你所在地区受到了地理封锁。这种情况在我们使用一些国际服务或访问国外网站时，尤其是在某些封锁较严重的地区（如中国、印度等）特别常见。每当我想访问国外的新闻网站、视频平台或社交媒体时，常常会遇到这些限制，导致无法顺利浏览和使用。甚至有时候为了查看一些特定内容，我不得不多次尝试，令人感到非常困扰。
 
